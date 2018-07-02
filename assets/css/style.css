@@ -49,4 +49,6 @@ img {
     font-weight: 900;
     font-size: 18px;
     color: #F1948A;
+    -webkit-text-stroke-width: .7px;
+    -webkit-text-stroke-color: black;
 }
