@@ -1,0 +1,52 @@
+.bg {
+    background-image: url(../images/landingpage.jpg);
+    height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name {
+    font-family: 'Bad Script', cursive;
+    font-size: 30px;
+}
+
+#welcomeButton {
+    position:absolute;
+    height: X px;
+    width: Y px;
+    left:50%;
+    top:50%;
+    margin-top:- X/2 px;
+    margin-left:- Y/2 px;
+}
+
+#welcome {
+    font-family: 'Pacifico', cursive;
+    font-weight: bolder; 
+    font-size: 65px;
+}
+
+.main {
+    background-image: url(../images/cactus.jpg);
+    height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    margin-top: 5%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#about {
+    margin-top: 4%;
+    font-weight: 900;
+    font-size: 18px;
+    color: #F1948A;
+}
