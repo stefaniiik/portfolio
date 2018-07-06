@@ -11,3 +11,4 @@ var mainPage = function () {
     window.location = "../portfolio/about.html";
 
 }
+

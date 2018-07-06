@@ -37,6 +37,7 @@
 }
 .container {
     margin-top: 5%;
+    margin-bottom: 5%;
 }
 img {
     display: block;
@@ -46,9 +47,41 @@ img {
 }
 #about {
     margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
     font-weight: 900;
-    font-size: 18px;
+    font-size: 22px;
     color: #F1948A;
     -webkit-text-stroke-width: .7px;
+    -webkit-text-stroke-color: black;
+}
+header {
+    font-size: 40px;
+    color: #F1948A;
+    text-align: center;
+    margin-top: 5%;
+    -webkit-text-stroke-width: .7px;
+    -webkit-text-stroke-color: black;
+}
+#contactPage {
+    font-size: 24px;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: #F1948A;
+}
+
+.card-title {
+    color: #F1948A;
+    font-size: 24px;
+}
+
+.email {
+    font-size: 28px;
+    color: #F1948A;
+    -webkit-text-stroke-width: .5px;
     -webkit-text-stroke-color: black;
 }
